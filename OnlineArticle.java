@@ -1,7 +1,5 @@
 /** This program represents OnlineArticle, an electronic text that tracks 
 * word count and etc of OnlineTextItem and InventoryItem.
-* CPSC 1223
-* Activity 5
 * @author Leticia Garcia
 * @version 9.16.2020 */
 

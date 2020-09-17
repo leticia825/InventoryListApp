@@ -1,6 +1,4 @@
 /** This program represents OnlineTextItem, a concept of item amount.
-* CPSC 1223
-* Activity 5
 * @author Leticia Garcia
 * @version 9.16.2020 */
 

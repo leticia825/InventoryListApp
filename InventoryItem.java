@@ -1,6 +1,4 @@
 /** This program represents InventoryItem.
-* CPSC 1223
-* Activity 5
 * @author Leticia Garcia
 * @version 9.16.2020 */
 

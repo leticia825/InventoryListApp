@@ -1,7 +1,5 @@
 /** This program represents OnlineBook.
 * It has author name & inherits OnlineTextItem.
-* CPSC 1223
-* Activity 5
 * @author Leticia Garcia
 * @version 9.16.2020 */
 

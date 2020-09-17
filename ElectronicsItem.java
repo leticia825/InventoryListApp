@@ -1,14 +1,13 @@
 /** This program represents ElectronicsItem. 
 * This has characteristics of InventoryItem and will account for shipping cost.
-* CPSC 1223
-* Activity 5
 * @author Leticia Garcia
 * @version 9.16.2020 */
 
 public class ElectronicsItem extends InventoryItem {
 
    protected double weight;
-   /** constant. */
+   
+ /** constant. */
    public static final double SHIPPING_COST = 1.5;
 
 /** constructor.

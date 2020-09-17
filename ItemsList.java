@@ -1,6 +1,4 @@
 /** This program hold;s array of InventoryItem objects.
-* CPSC 1223
-* Activity 5
 * @author Leticia Garcia
 * @version 9.16.2020 */
 
@@ -22,9 +20,9 @@ public class ItemsList {
       count++;
    }
    
-   /** calcTotal.
-   @param electronicsSurcharge double
-   @return total double */
+/** calcTotal.
+@param electronicsSurcharge double
+@return total double */
    public double calculateTotal(double electronicsSurcharge) {
       double total = 0;
       for (int i = 0; i < count; i++) {
@@ -39,8 +37,8 @@ public class ItemsList {
       return total;
    }
    
-   /** toString.
-   @return output String */
+/** toString.
+@return output String */
    public String toString() {
       String output = "All inventory:\n\n";
    
